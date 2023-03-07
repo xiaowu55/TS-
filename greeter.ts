@@ -3,6 +3,8 @@ function greeter(person:string){
 
 }
 
-let user 
+let user = 'wujiaze'
 
 document.body.innerHTML = greeter(user)
+
+export{}
