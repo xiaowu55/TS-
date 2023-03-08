@@ -18,3 +18,5 @@ function printID(id:number|string){
     }
     
 }
+
+export{}

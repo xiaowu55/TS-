@@ -17,3 +17,5 @@ function handleMessage(message:string|number|boolean){
             
     }
 }
+
+export{}

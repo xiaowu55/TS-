@@ -11,4 +11,10 @@ function sum1(num1:number,num2:number):number{
     return num1 + num2
 }
 
+//定义对象类型
+type ly ={
+    time:number,
+    text:string
+} 
+
 export{}
